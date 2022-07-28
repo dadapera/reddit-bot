@@ -1,2 +1,2 @@
 # reddit-bot
-bot for Reddit actions
+Bot for performing actions on Reddit.
