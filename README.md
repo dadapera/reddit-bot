@@ -1,2 +1,2 @@
 # reddit-bot
-Bot for performing actions on Reddit.
+Bot for upvote all comments and subcriptions of a selected Redditor.
